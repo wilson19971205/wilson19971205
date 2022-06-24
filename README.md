@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI relative field
 - 🌱 I’m currently a student at UT Austin, Master of Science in Data Science
 - 💞️ I’m looking to get an internship to strengthen myself
-- 📫 I'm welcome to contact me with the following email: wilson19971205@gmail.com
+- 📫 Feel free to contact me with the following email: wilson19971205@gmail.com
 
 <!---
 wilson19971205/wilson19971205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
