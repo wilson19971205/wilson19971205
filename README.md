@@ -4,6 +4,8 @@
 - 💞️ I’m looking to get an internship to strengthen myself
 - 📫 Feel free to contact me via the following email: wilson19971205@gmail.com
 
+Many of my projects are still waiting to push onto Github! 
+
 <!---
 wilson19971205/wilson19971205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
