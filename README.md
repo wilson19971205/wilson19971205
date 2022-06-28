@@ -1,4 +1,4 @@
-## About me:
+## About me
 - 👋 Hi, I’m Hsuan-Wei Chen
 - 👀 I’m interested in AI relative field
 - 🌱 I’m currently a student at UT Austin, Master of Science in Data Science
@@ -7,16 +7,18 @@
 
 Many of my works are still waiting to push onto Github! (Because I'm new here!)
 
-## Projects in my repositories:
+## Projects in my repositories
 
 ### NLP
-- 
--
--
--
+- Improving NLP models by adding Adversarial Training
+- Character Language Modeling (RNNs)
+- Semantic Parsing with Encoder Decoder Models
+- Feedforward Neural Networks
+- Sentiment Classification
+- Sequential CRF for NER
 
-### Data Structure and Algorithm:
-- Wikiracer (BFS, DFS, )
+### Data Structure and Algorithm
+- Wikiracer (BFS, DFS, Dijkstra's Algorithm)
 - Implementing B-trees
 - Implementing Treap
 
