@@ -1,5 +1,4 @@
 ## About me
-- Hi, I’m Hsuan-Wei Chen
 - I’m interested in AI relative field
 - I’m currently a student at UT Austin, Master of Science in Data Science
 - I’m looking to get an internship to strengthen myself
