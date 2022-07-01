@@ -1,7 +1,7 @@
 ## About me
 - I’m interested in AI relative field
 - I’m currently a student at UT Austin, Master of Science in Data Science
-- I’m looking to get an internship to strengthen myself
+- I’m looking to get an internship / full-time job to strengthen myself
 - Feel free to contact me via the following email: wilson19971205@gmail.com
 
 Many of my works are still waiting to push onto Github! (Because I'm new here!)
