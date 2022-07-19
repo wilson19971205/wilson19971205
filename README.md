@@ -16,8 +16,8 @@
 
 ### Data Structure and Algorithm
 - Wikiracer (BFS, DFS, Dijkstra's Algorithm)
-- Implementing B-trees
-- Implementing Treap
+- B-trees
+- Treap
 
 <!---
 wilson19971205/wilson19971205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
