@@ -4,7 +4,7 @@
 - I’m looking to get an internship / full-time job to strengthen myself
 - Feel free to contact me via the following email: wilson19971205@gmail.com
 
-## RESEARCH EXPERIENCE
+## Research Experience
 
 ML/DL relative projects/courseworks:
 - Improve NLP models by adding Adversarial Training,                         2021.12
