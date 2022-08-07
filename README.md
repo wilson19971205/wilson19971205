@@ -16,7 +16,7 @@ Leela Zero is an AI Go program open-source on Git-hub, I examine its Policy Netw
 (Using CNN and MCTS to decide the next move) and Value Network (A reinforcement 
 learning technique to play Go with its duplicate and calculate the win rate after each move). I had tried to design a new CNN model to improve its Policy Network performance. 	
 - Lasso Regression, SVM, Spectral Clustering application	                   2020.02 -  2020.06
-Design a concept product: Artificial Intelligence router and extenders	     2019.09 - 2020.01
+- Design a concept product: Artificial Intelligence router and extenders	     2019.09 - 2020.01
 - Kaggle competition - Los Alamos National Laboratory Earthquake Prediction	 2019.01 - 2019.06
 - Kaggle competition - Leaf Classification	                                 2019.01 - 2019.06
 - Action recognition	                                                       2019.01 - 2019.06
