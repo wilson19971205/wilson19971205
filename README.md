@@ -12,7 +12,6 @@ ML/DL relative projects/courseworks:
 - Kaggle competition - Plant pathology (ResNet),                             2020.04 - 2020.06
 - K-mean clustering application,                                             2020.03 - 2020.04
 - Lasso Regression, SVM, Spectral Clustering application,	                   2020.02 - 2020.06
-- Design a concept product: Artificial Intelligence router and extenders,	   2019.09 - 2020.01
 - Kaggle competition - Los Alamos National Laboratory Earthquake Prediction, 2019.01 - 2019.06
 - Kaggle competition - Leaf Classification,	                                 2019.01 - 2019.06
 - Action recognition,	                                                       2019.01 - 2019.06
