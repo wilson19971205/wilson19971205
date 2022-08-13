@@ -11,7 +11,6 @@ ML/DL relative projects/courseworks:
 - PCA  image compression,                                                    2020.04 - 2020.05
 - Kaggle competition - Plant pathology (ResNet),                             2020.04 - 2020.06
 - K-mean clustering application,                                             2020.03 - 2020.04
-- Analyze Leela Zero’s Policy network and Value network and improve,         2020.03 - 2020.06
 - Lasso Regression, SVM, Spectral Clustering application,	                   2020.02 - 2020.06
 - Design a concept product: Artificial Intelligence router and extenders,	   2019.09 - 2020.01
 - Kaggle competition - Los Alamos National Laboratory Earthquake Prediction, 2019.01 - 2019.06
