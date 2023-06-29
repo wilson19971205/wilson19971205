@@ -5,6 +5,13 @@
 
 ## Projects in my repositories
 
+### Computer Vision
+-
+-
+-
+-
+-
+
 ### NLP
 - Improving NLP models by adding Adversarial Training
 - Character Language Modeling (RNNs) 
