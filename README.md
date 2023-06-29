@@ -3,10 +3,7 @@
 - I’m looking to get an internship / full-time job
 - Feel free to contact me via the following email: wilson19971205@gmail.com
 
-## Research Experience
-
-ML/DL relative projects/coursework:
-- Improve NLP models by adding Adversarial Training,                         2021.12
+## Other projects done in college 
 - PCA  image compression,                                                    2020.04 - 2020.05
 - Kaggle competition - Plant pathology (ResNet),                             2020.04 - 2020.06
 - K-mean clustering application,                                             2020.03 - 2020.04
@@ -16,16 +13,11 @@ ML/DL relative projects/coursework:
 - Action recognition,	                                                       2019.01 - 2019.06
 - Urban-sound-classification,	                                               2019.01 - 2019.06
 
-Data Structure Relative projects/coursework:
-- Wikiracer (BFS, DFS, Djikstra),                                            2022.04
-- Implement B-trees / Treaps,                                                2022.04
-- ICCAD Rectilinear Polygon Operations for Physical Design,                  2019.03 - 2019.09
-
 ## Projects in my repositories
 
 ### NLP
 - Improving NLP models by adding Adversarial Training
-- Character Language Modeling (RNNs)
+- Character Language Modeling (RNNs) 
 - Semantic Parsing with Encoder-Decoder Models
 - Feedforward Neural Networks
 - Sentiment Classification
