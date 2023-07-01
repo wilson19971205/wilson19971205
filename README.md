@@ -6,11 +6,11 @@
 ## Projects in my repositories
 
 ### Computer Vision
--
--
--
--
--
+- Convolutional network classify images (SuperTuxKart dataset)
+- Fully Convolutional network solving semantic labeling (SuperTuxKart dataset)
+- Object detector (SuperTuxKart dataset)
+- Vision-based driving in SuperTuxKart
+- SuperTuxKart ice-hockey image-based agent
 
 ### NLP
 - Improving NLP models by adding Adversarial Training
