@@ -1,6 +1,6 @@
 ## About me
-- I’m interested in Computer Vision
-- I’m looking to get an internship / full-time job
+- interested in Computer Vision
+- looking for an internship / full-time job
 - Feel free to contact me via the following email: wilson19971205@gmail.com
 
 ## Projects in my repositories
